@@ -1,0 +1,30 @@
+_repo: A-Crooked-Mile_37584
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37584-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Onions, Oliver
+    alias: Oliver, George
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '5392'
+    url: http://www.gutenberg.org/2009/agents/5392
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Onions
+description: 'Sequel to "The Two Kisses." "Gray Youth" #45682 includes both.'
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Women -- Social and moral questions -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: A Crooked Mile
+url: http://www.gutenberg.org/ebooks/37584
